@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Euroskills2018.Razor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5ea80e51f6417ad7d150ad51d34ca10d704a140")]
 [assembly: System.Reflection.AssemblyProductAttribute("Euroskills2018.Razor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Euroskills2018.Razor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
